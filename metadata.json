@@ -1,0 +1,10 @@
+{
+  "name": "Ghost Mode - Interactive Invisibility FX",
+  "description": "Real-time webcam app powered by MediaPipe selfie segmentation and hand tracking to erase your body with pinch gestures and create viral ghost effects.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
